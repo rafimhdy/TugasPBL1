@@ -1,0 +1,6 @@
+git clone [url repo]
+cd [folder repo]
+touch config.html
+git add .
+git commit -m "Tugas Hari Pertama PBL"
+git push
